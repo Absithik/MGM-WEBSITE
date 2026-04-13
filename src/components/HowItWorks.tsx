@@ -27,6 +27,8 @@ export default function HowItWorks() {
           </h2>
         </div>
 
+
+
         <div ref={containerRef} className="relative max-w-5xl mx-auto">
           {/* Horizontal Line (Desktop) */}
           <div className="hidden md:block absolute top-10 left-0 right-0 h-px bg-black/10" />
